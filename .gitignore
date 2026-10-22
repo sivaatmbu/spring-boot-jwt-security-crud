@@ -1,0 +1,15 @@
+# Maven build output
+target/
+
+# IDE files
+.metadata/
+.settings/
+bin/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Local secrets and environment configuration
+.env
+application-local.properties
